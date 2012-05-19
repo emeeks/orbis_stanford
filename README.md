@@ -3,9 +3,9 @@ orbis_stanford
 
 The code that is used in ORBIS: The Stanford Geospatial Network Model of the Roman World
 
-Copyright © 2010 Stanford University Library. See LICENSE for details.
+Copyright © 2012 Stanford University Library. See LICENSE for details.
 
-Copyright (c) 2009 Stanford University Library
+Copyright (c) 2012 Stanford University Library
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
